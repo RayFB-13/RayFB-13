@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<details open>
+  <summary>R</summary>
+  <p>RRR</p>
+</details>
 <!--
 **RayFB-13/RayFB-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
