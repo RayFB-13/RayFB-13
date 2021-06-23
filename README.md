@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<details open>
+<details close>
   <summary>R</summary>
   <p>RRR</p>
 </details>
